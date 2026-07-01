@@ -31,8 +31,8 @@ StudentManagement/
 ├── .gitignore         # Bộ lọc rác cấu hình hệ thống của Visual Studio
 ├── .gitattributes     # Định nghĩa thuộc tính Git cho các file
 └── README.md          # Tài liệu hướng dẫn sử dụng hệ thống
-
-## ,Chức Năng,Nội Dung Chính,Độ Phức Tạp
+text```
+## Chức Năng,Nội Dung Chính,Độ Phức Tạp
 
 1,Nhập danh sách,Thêm mới một hoặc nhiều sinh viên vào hệ thống,O(N)
 2,Hiển thị danh sách,"In toàn bộ dữ liệu (MSSV, Họ Tên, Điểm TB) ra màn hình",O(N)
