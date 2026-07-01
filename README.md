@@ -31,18 +31,19 @@ StudentManagement/
 ├── .gitignore         # Bộ lọc rác cấu hình hệ thống của Visual Studio
 ├── .gitattributes     # Định nghĩa thuộc tính Git cho các file
 └── README.md          # Tài liệu hướng dẫn sử dụng hệ thống
-text```
+```text
 ## Chức Năng,Nội Dung Chính,Độ Phức Tạp
 
 1,Nhập danh sách,Thêm mới một hoặc nhiều sinh viên vào hệ thống,O(N)
 2,Hiển thị danh sách,"In toàn bộ dữ liệu (MSSV, Họ Tên, Điểm TB) ra màn hình",O(N)
 3,Tìm kiếm sinh viên,Tìm vị trí sinh viên trong hệ thống theo Mã số sinh viên (MSSV),O(N)
-
+```text
 ## ⚙️ Cài Đặt & Chạy
 Yêu cầu hệ thống
 Compiler: g++ 9+ (C++17) hoặc MSVC (Visual Studio 2022)
 OS: Windows, Linux, macOS
 IDE gợi ý Visual Studio 2022, VS Code, CLion, Dev-C++
+```text
 ## 🤝 Đóng Góp
 
 Mọi đóng góp nhằm tối ưu mã nguồn (ví dụ: bổ sung tính năng sắp xếp, xóa sinh viên) đều được chào đón!
