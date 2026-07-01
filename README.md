@@ -18,11 +18,8 @@ Dự án thực hành C++ cơ bản về quản lý danh sách sinh viên ứng 
 * Giao diện tương tác menu trực quan, dễ sử dụng.
 * Chuẩn GitHub: cấu trúc rõ ràng, mã nguồn viết sạch và có kèm file hướng dẫn đầy đủ.
 
----
 
 ## 📁 Cấu trúc Dự Án
-
-```text
 StudentManagement/
 │
 ├── duAN/
@@ -33,22 +30,19 @@ StudentManagement/
 ├── .gitignore         # Bộ lọc rác cấu hình hệ thống của Visual Studio
 ├── .gitattributes     # Định nghĩa thuộc tính Git cho các file
 └── README.md          # Tài liệu hướng dẫn sử dụng hệ thống
----
+
 ## ,Chức Năng,Nội Dung Chính,Độ Phức Tạp
-```text
+
 1,Nhập danh sách,Thêm mới một hoặc nhiều sinh viên vào hệ thống,O(N)
 2,Hiển thị danh sách,"In toàn bộ dữ liệu (MSSV, Họ Tên, Điểm TB) ra màn hình",O(N)
 3,Tìm kiếm sinh viên,Tìm vị trí sinh viên trong hệ thống theo Mã số sinh viên (MSSV),O(N)
----
+
 ## ⚙️ Cài Đặt & Chạy
-```text
 Yêu cầu hệ thống
 Compiler: g++ 9+ (C++17) hoặc MSVC (Visual Studio 2022)
 OS: Windows, Linux, macOS
 IDE gợi ý Visual Studio 2022, VS Code, CLion, Dev-C++
----
 ## 🤝 Đóng Góp
-```text
 
 Mọi đóng góp nhằm tối ưu mã nguồn (ví dụ: bổ sung tính năng sắp xếp, xóa sinh viên) đều được chào đón!
 Fork dự án
