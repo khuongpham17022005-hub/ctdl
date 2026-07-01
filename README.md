@@ -39,17 +39,18 @@ StudentManagement/
 3,Tìm kiếm sinh viên,Tìm vị trí sinh viên trong hệ thống theo Mã số sinh viên (MSSV),O(N)
 ```
 ##⚙️ Cài Đặt & Chạy
-
+```text
 Yêu cầu hệ thống
 Compiler: g++ 9+ (C++17) hoặc MSVC (Visual Studio 2022)
 OS: Windows, Linux, macOS
 IDE gợi ý Visual Studio 2022, VS Code, CLion, Dev-C++
-
+```
 ##🤝 Đóng Góp
-
+```text
 Mọi đóng góp nhằm tối ưu mã nguồn (ví dụ: bổ sung tính năng sắp xếp, xóa sinh viên) đều được chào đón!
 Fork dự án
 Tạo branch mới: git checkout -b feature/ten-tinh-nang
 Commit thay đổi: git commit -m "feat: bổ sung tính năng X"
 Push lên nhánh vừa tạo: git push origin feature/ten-tinh-nang
 Tạo một Pull Request
+```
