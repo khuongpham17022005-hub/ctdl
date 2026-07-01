@@ -18,8 +18,9 @@ Dự án thực hành C++ cơ bản về quản lý danh sách sinh viên ứng 
 * Giao diện tương tác menu trực quan, dễ sử dụng.
 * Chuẩn GitHub: cấu trúc rõ ràng, mã nguồn viết sạch và có kèm file hướng dẫn đầy đủ.
 
-
+---
 ## 📁 Cấu trúc Dự Án
+```text
 StudentManagement/
 │
 ├── duAN/
